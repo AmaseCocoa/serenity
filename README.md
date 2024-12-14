@@ -1,2 +1,2 @@
-# serenity
-A clean and quiet Nuxt theme
+# Nuxt Serenity
+The front-end used on blog.amase.xyz has been ported for Nuxt Content.
